@@ -1,5 +1,5 @@
 # Fraud_Detection
-Fraud_Detection
+Modelo de Detecção de Fraude para transações financeiras 
 
 Este projeto apresentou uma aplicação envolvendo transações financneiras envolvendo o evento de fraude e não fraude em bancos europeus no período de dois dias.
 O objetivo deste projeto é apresentar um modelo de de Machine Learning eficiente para classificar se transações futuras são ou não são fraudes. De certa forma, 
